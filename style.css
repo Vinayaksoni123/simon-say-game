@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-image: url(cool-blue-clouds-smoke-transparent-background_528542-1126.avif); 
+    /* position: absolute; */
+    /* background-position: absolute; */
+     color: white;
+   
+}
+i{
+    color:rgb(30, 27, 27);
+
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+
+    border: 10px solid black;
+    margin: 3px;
+}
+/* #f99b45 */
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.yello{
+    background-color: #f99b45;
+ 
+}
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: white;
+}
